@@ -3,3 +3,4 @@ Payment of 80000.0 made via card
 Payment of 16000.0 made via cash
 Payment of 0.0 made via card
 Payment of 0.0 made via card
+Payment of 8000.0 made via card
